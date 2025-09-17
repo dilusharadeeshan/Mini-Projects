@@ -5,7 +5,7 @@ This is a collection of mini projects.
 Projects
 
 1.Weather App
-
+2.Rock Paper Scissor Game
 
 
 ++++++++
