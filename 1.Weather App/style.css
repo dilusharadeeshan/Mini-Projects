@@ -6,6 +6,9 @@
 }
 
 body {
+    display: flex;
+    margin-top: 2%;
+    justify-content: center;
     background-color: #222;
 }
 
@@ -97,4 +100,14 @@ body {
 .humidity, .wind {
     font-size: 28px;
     margin-top: -6px;
+}
+
+.weather {
+    display: none;
+}
+
+.error {
+    font-weight: bolder;
+    margin-top: 10px;
+    display: none;
 }
